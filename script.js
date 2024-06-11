@@ -321,7 +321,7 @@ var searchInput=$('#search input[type="search"]');var submitInput=$('#search inp
 
 
 
-
+let marvel="marvel";
 
 
 
