@@ -323,7 +323,7 @@ var searchInput=$('#search input[type="search"]');var submitInput=$('#search inp
 
 let marvel="marvel";
 
-console.log("All good");
+console.log("scr2");
 
 
 
